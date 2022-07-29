@@ -1,0 +1,14 @@
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.exe
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.deps.json
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.runtimeconfig.json
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.runtimeconfig.dev.json
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.dll
+D:\Bakery\bin\Debug\netcoreapp3.0\Bakery.pdb
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.csproj.AssemblyReference.cache
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.AssemblyInfoInputs.cache
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.AssemblyInfo.cs
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.csproj.CoreCompileInputs.cache
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.dll
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.pdb
+D:\Bakery\obj\Debug\netcoreapp3.0\Bakery.genruntimeconfig.cache
